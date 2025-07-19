@@ -137,6 +137,6 @@ As features mais importantes para a previsão de sobrevivência, de acordo com o
 
 ## Autor
 
-[Seu Nome/Pseudônimo] - [Link para seu Perfil no GitHub (opcional)]
+Bryan Nicholas
 
 ---
