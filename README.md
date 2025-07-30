@@ -116,7 +116,7 @@ As features mais importantes para a previsão de sobrevivência, de acordo com o
 1.  **Clone o Repositório:**
     ```bash
     git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    cd SEU_REPOSITORIO
+    cd SEU_REPOSITORIO](https://github.com/Nicholas-UFC/Titanic.git)
     ```
 2.  **Baixe os Dados:** Faça o download dos arquivos `train.csv` e `test.csv` (e `gender_submission.csv` opcionalmente) da competição do Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data). Coloque-os na mesma pasta do `Titanic.ipynb`.
 3.  **Instale as Dependências:**
